@@ -22,14 +22,14 @@ const phrases = [
   // 'can draft a packing list for your weekend fishing and camping trip',
   'can help you draft the perfect resignation letter from Google',
   'can help you create a website mocking Google\'s waitlist "launches"',
-  'can write a blog post about how "don\'t be evil" got lost along the way',
-  'can help you check your email for other Google waitlists ...',
-  'can suggest open source alternatives to expensive Google products',
-  "helps you reduce anxiety by knowing that you'll never get off the waitlist",
-  'can do a fraction of the cool stuff that ChatGPT could do 3 months ago',
   'can help you avoid Google ads by suggesting the best tinfoil hats to wear',
-  "can recommend non-Google products that won't sell your data",
-  "won't become sentient and try to take over the world... we promise..."
+  "can suggest non-Google products that won't sell your personal data",
+  "won't become sentient and try to take over the world... we promise...",
+  'can do a fraction of the cool stuff that ChatGPT could do 3 months ago...',
+  'can write a blog post about how "don\'t be evil" got lost along the way',
+  'can help you check your email for other Google waitlists...',
+  'can suggest open source alternatives to expensive Google products',
+  "can help you reduce anxiety by knowing that you'll never get off the waitlist"
 ]
 
 function shuffle(array) {
