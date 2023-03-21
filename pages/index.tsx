@@ -23,15 +23,14 @@ const phrases = [
   'can help you draft the perfect resignation letter from Google',
   'can help you create a website mocking Google\'s waitlist "launches"',
   'can write a blog post about how "don\'t be evil" got lost along the way',
-  "can hallucinate facts so you don't have to ...",
   'can help you check your email for other Google waitlists ...',
   'can suggest open source alternatives to expensive Google products',
   "helps you reduce anxiety by knowing that you'll never get off the waitlist",
   'can do a fraction of the cool stuff that ChatGPT could do 3 months ago',
-  'knows how to make a Google search so specific, it only returns results from 2007',
-  "can recommend an alternative to Google Translate that won't butcher your sentences",
-  "helps you avoid Google's invasive ads by suggesting tinfoil hats for you to wear",
-  "can recommend non-Google products that won't sell your data to the highest bidder"
+  'can help you translate text without butchering your sentences',
+  'can help you avoid Google ads by suggesting the best tinfoil hats to wear',
+  "can recommend non-Google products that won't sell your data",
+  "won't become sentient and try to take over the world... we promise..."
 ]
 
 function shuffle(array) {

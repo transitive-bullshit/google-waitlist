@@ -41,6 +41,7 @@
   align-items: center;
   max-width: 800px;
   gap: 2em;
+  flex: 1;
 }
 
 .titleWrapper {
