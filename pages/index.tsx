@@ -21,13 +21,13 @@ const phrases = [
   // 'can help you get started on writing your first novel',
   // 'can draft a packing list for your weekend fishing and camping trip',
   'can help you draft the perfect resignation letter from Google',
-  // 'can help you create a website mocking Google\'s waitlist "launches"',
-  // 'can write a blog post about how "don\'t be evil" got lost along the way',
-  // 'can suggest better hosted APIs from OpenAI, Cohere, and Hugging Face',
-  // 'can help you check your email for other Google waitlists ...',
-  // 'can suggest open source alternatives to expensive Google products',
-  // "helps you reduce anxiety by knowing you'll never get off the waitlist",
-  'can do some of the cool stuff that ChatGPT could do 3 months ago'
+  'can help you create a website mocking Google\'s waitlist "launches"',
+  'can write a blog post about how "don\'t be evil" got lost along the way',
+  'can suggest better hosted APIs from OpenAI, Cohere, and Hugging Face',
+  'can help you check your email for other Google waitlists ...',
+  'can suggest open source alternatives to expensive Google products',
+  "helps you reduce anxiety by knowing you'll never get off the waitlist",
+  'can do a fraction of the cool stuff that ChatGPT could do 3 months ago'
 ]
 
 const longestPhrase = phrases.reduce(
