@@ -27,7 +27,6 @@ const phrases = [
   'can suggest open source alternatives to expensive Google products',
   "helps you reduce anxiety by knowing that you'll never get off the waitlist",
   'can do a fraction of the cool stuff that ChatGPT could do 3 months ago',
-  'can help you translate text without butchering your sentences',
   'can help you avoid Google ads by suggesting the best tinfoil hats to wear',
   "can recommend non-Google products that won't sell your data",
   "won't become sentient and try to take over the world... we promise..."
