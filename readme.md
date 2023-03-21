@@ -5,7 +5,7 @@
 <h1 align="center">Google Waitlist</h1>
 
 <p align="center">
-  Sign up for Google's latest AI-powered waitlist!
+  Sign up for Google's latest AI-powered waitlist today!
 </p>
 
 <p align="center">
@@ -13,8 +13,6 @@
   <a href="https://github.com/transitive-bullshit/google-waitlist/blob/main/license"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue" /></a>
   <a href="https://prettier.io"><img alt="Prettier Code Formatting" src="https://img.shields.io/badge/code_style-prettier-brightgreen.svg" /></a>
 </p>
-
-[![Build Status](https://github.com/transitive-bullshit/google-waitlist/actions/workflows/test.yml/badge.svg)](https://github.com/transitive-bullshit/google-waitlist/actions/workflows/test.yml) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/transitive-bullshit/google-waitlist/blob/main/license) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
 - [Intro](#intro)
 - [License](#license)
