@@ -21,6 +21,7 @@
     "test:prettier": "prettier '**/*.{js,jsx,ts,tsx}' --check"
   },
   "dependencies": {
+    "@vercel/analytics": "^0.1.11",
     "clsx": "^1.2.1",
     "next": "13.2.4",
     "react": "18.2.0",
@@ -34,7 +35,6 @@
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "@types/three": "^0.149.0",
-    "@vercel/analytics": "^0.1.11",
     "autoprefixer": "^10.4.14",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
